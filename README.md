@@ -1,6 +1,7 @@
 #  Analiza danych – Bangalore's Traffic Pulse  
 
-##  Opis projektu  
+[Raport](https://github.com/BartoszOleszek/Analysis_of_the_Bangalore_Traffic_Pulse_Dataset/blob/main/Projekt%20z%20Analizy%20Danych.pdf)
+
 Projekt zespołowy dotyczący analizy zbioru danych **"Bangalore's Traffic Pulse: Insights into Urban Congestion and Commuter Behavior"** z platformy Kaggle, udostępnionego przez Preethama Goudę.  
 Zbiór zawiera **16 kolumn i 8,936 wierszy**, opisujących ruch drogowy, zachowania użytkowników oraz warunki środowiskowe w Bangalore.  
 Dane zostały zebrane **od 2022-01-01 do 2024-08-09** w regularnych odstępach czasowych (co jeden dzień).  
